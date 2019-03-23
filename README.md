@@ -7,3 +7,5 @@ Steps to Regenerate the Project:
 4.    Examining, analyzing and understanding the data using Exploratory Data Analysis in the file “EDA.ipynb”
 5.    Data Cleaning and Preprocessing, Feature Engineering, Random Forest and Linear Regression Model for interest rate prediction exists in the file “DataCleaningAndModeling.ipynb”
 6.    Neural Network Model prediction, TPot exists in “NeuralNetworks.ipynb”
+
+Clat: https://codelabs-preview.appspot.com/?file_id=1clzFLILnTFNnhWclp0oAvZSPZNUKjcTNipUNdS1K8tk#0 
